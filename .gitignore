@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.vscode/
+
+# Create from google console
+client_secret.json
